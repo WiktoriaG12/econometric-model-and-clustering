@@ -20,4 +20,5 @@ The average expenditure on recreation and culture of one person in Poland is 73.
 Based on the Shapiro-Wilk test, the library variable was rejected - does not follow the normal distribution.
 
 ## Correlation Matrix 
+![Screenshot](https://github.com/WiktoriaG12/econometric-model-and-clustering/commit/a6190ebbcc6ff57574d6cb01e8823808ea7ec30c#diff-68a20b928282bb87ed80cb50bf149d6c56e769406a45a9d1856fc05f4244be6a)
 
