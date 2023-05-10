@@ -14,3 +14,7 @@ Variables:
 * library - number of public libraries per 1000 people
 * unemp_rate - unemployment rate
 * expenses - cultural expenses per person (PLN)
+
+
+The average expenditure on recreation and culture of one person in Poland is 73.98 PLN. The average number of people per one seat in the cinema is 148. The average monthly disposable income per person in Poland is PLN 2001 PLN. In 75% of provinces income per capita does not exceed 2096 PLN. 
+Based on the Shapiro-Wilk test, the library variable was rejected - does not follow the normal distribution.
