@@ -21,5 +21,7 @@ Based on the Shapiro-Wilk test, the library variable was rejected - does not fol
 
 ## Correlation Matrix 
 ![Screenshot](https://github.com/WiktoriaG12/econometric-model-and-clustering/blob/main/images/correlation_matrix.png)
+
+
 The greatest correlation is between the cinema variable and the events variable (-0.84)
 
