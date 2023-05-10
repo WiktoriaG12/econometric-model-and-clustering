@@ -1,4 +1,4 @@
-# Econometric model and clustering
+# Econometric Model and Clustering
 
 #                                 Spending on culture and recreation in Poland 
 
