@@ -27,3 +27,24 @@ The greatest correlation is between the cinema variable and the events variable 
 ## Econometric Model
 The best results were obtained for the model:
 expenses =  108.73 + 0.17*cinema + 0.01*income - 112.74*social_benefits + 93.50*events - 1.86*unemp_rate
+
+R-squared = 0,7  
+70% of the variability observed in the target variable is explained by the regression model.
+
+## Density Plot
+![Screenshot](https://github.com/WiktoriaG12/econometric-model-and-clustering/blob/main/images/density_plot.png)
+
+The residuals follow the normal distribution. 
+
+# Clustering 
+
+## Distance Matrix
+![Screenshot](https://github.com/WiktoriaG12/econometric-model-and-clustering/blob/main/images/distance.png)
+
+The most similar in terms of selected features are Masovian, Lower Silesian and Silesian.
+
+## Cluster Dendrogram 
+![Screenshot](https://github.com/WiktoriaG12/econometric-model-and-clustering/blob/main/images/dendrogram.png)
+The dendrogram was created using Ward's method. Four classes have been distinguished. 
+
+
