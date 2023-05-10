@@ -1,6 +1,6 @@
 # Econometric Model and Clustering
 
-#                                 Spending on culture and recreation in Poland 
+#                                 [Spending on culture and recreation in Poland](https://github.com/WiktoriaG12/econometric-model-and-clustering/blob/main/econometric_model.R) 
 
 
 The aim of the project is to examine what affects the amount of spending on culture and recreation. 
